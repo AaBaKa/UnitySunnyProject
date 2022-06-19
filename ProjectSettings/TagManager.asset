@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - "\u5B9D\u77F3"
+  - "\u654C\u4EBA"
+  - Deadline
+  - "\u706B"
+  - "\u5F00\u5173"
+  - "\u94A5\u5319"
+  - "\u95E8"
+  - "\u5730\u9762"
+  - "\u6A59\u8272\u94A5\u5319"
+  - "\u590D\u6D3B\u70B9"
+  - "\u7F57\u76D8\u4E09\u5C42"
+  - "\u7F57\u76D8\u4E8C\u5C42"
+  - "\u7F57\u76D8\u4E00\u5C42"
+  - Compass01
+  - Compass03
+  - Compass02
+  - "\u4E0A\u5347\u5E73\u53F0"
+  - shell
+  - "\u95E8\u6A59\u8272"
+  - "\u7ED3\u675F\u95E8"
+  - "\u5BB6\u95E8"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - RockHead
+  - Compass
+  - Noshell
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2721834665
+    locked: 0
+  - name: "\u5899\u58C1"
+    uniqueID: 4278393457
+    locked: 0
+  - name: "\u5730\u9762"
+    uniqueID: 1007927957
+    locked: 0
+  - name: "\u73AF\u5883"
+    uniqueID: 3745984717
+    locked: 0
+  - name: "\u5C0F\u5EFA\u7B51"
+    uniqueID: 1321121665
+    locked: 0
+  - name: frontground
+    uniqueID: 2600331991
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 1198998253
+    locked: 0
